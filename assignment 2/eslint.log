@@ -1,0 +1,11 @@
+
+> web222-assignment-2@5.0.0 eslint
+> eslint src/**/*.js
+
+
+C:\Users\pawan\OneDrive\Desktop\SENECA COLLEGE\2nd semester\WEB\a2(1)\a2\src\observations.js
+  465:31  warning  Expected '!==' and instead saw '!='  eqeqeq
+  465:78  warning  Expected '!==' and instead saw '!='  eqeqeq
+
+✖ 2 problems (0 errors, 2 warnings)
+

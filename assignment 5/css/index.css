@@ -1,0 +1,39 @@
+.card {
+  width: 28%;
+  float: left;
+  height: 560px;
+  margin: 25px 2px;
+  padding: 10px;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+  border-radius: 15px;
+  background: linear-gradient(
+    0,
+    rgb(200, 255, 250) 0%,
+    rgb(255, 205, 234) 45%,
+    rgb(233, 255, 154) 100%
+  );
+}
+
+.card-image {
+  width: 200px;
+  height: 150px;
+  border: #144f5a;
+  border-radius: 15px;
+  margin: 0;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  background: linear-gradient(
+    0,
+    rgb(200, 255, 250) 0%,
+    rgb(255, 205, 234) 45%,
+    rgb(240, 97, 15) 100%
+  );
+}
+
+.nav {
+  margin: 22px;
+  background-color: blue;
+}
